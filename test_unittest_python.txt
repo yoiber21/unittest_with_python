@@ -1,0 +1,8 @@
+>>> from unittest_python import palindrome
+>>> palindrome("anita lava la tina")
+True
+>>> palindrome("codigofacilito")
+False
+>>> sentence_test = 'Oso'
+>>> palindrome(sentence_test)
+True
